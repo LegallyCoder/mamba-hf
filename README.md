@@ -1,5 +1,5 @@
 # mamba-hf
-<img src="https://th.bing.com/th/id/OIG.Jp5dA01tOAFcwSp544nv?pid=ImgGn" width="300" height="300" alt="mamba-hf">
+<img src="https://cdn-uploads.huggingface.co/production/uploads/63da3d7ae697e5898cb86854/A3BYIH-q7G5vz4NlsPlGJ.jpeg" width="300" height="300" alt="mamba-hf">
 
 Implementation of the Mamba SSM with hf_integration.
 
